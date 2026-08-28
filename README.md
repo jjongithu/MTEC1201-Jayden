@@ -3,3 +3,4 @@ I majored in emerging media go learn more about coding even if I don't have any 
 What I find interesting is how sketching is apart of coding when sketching a prompt you can use it to code with github commands
 I grew up playing games my entire life and I had the thought of ever getting to make a game in the future when I go into College
 City Tech is the College I chose because I find a passion in my heart that I can succeed in this class
+I Believe I can grow into coding the biggest project I can ever dream of ever coding and achieve the goal I've desired as a child.
