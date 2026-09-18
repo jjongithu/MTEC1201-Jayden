@@ -1,15 +1,6 @@
 function setup() {
-  createCanvas(400, 400);
-}
+  createCanvas(200, 200)
 
-function draw () {
-  background "blue"; 
-}  
-
-function draw () {}
-background "blue";
-
-rect{0, 0, 200, 200}
-
-
-
+getAudioContext('2d')
+fillstyle = red
+fillrect(150,150,100,100)
