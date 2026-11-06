@@ -12,5 +12,6 @@ function draw() {
     point(300, i);
     point(i, i);
     point(600 - i, i);
+  
   }
 }
